@@ -1,0 +1,11 @@
+{
+  "name": "cle-mqtt-example",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
